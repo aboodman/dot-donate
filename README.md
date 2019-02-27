@@ -31,3 +31,8 @@ The `.donate` file MUST be formatted as [JSON](https://www.json.org/).
 | PayPal | A [PayPal address](http://paypal.com) |
 | BTC | A [bitcoin address](https://en.bitcoin.it/wiki/Address) |
 | USDC | A [USDC address](https://www.coinbase.com/usdc) |
+
+# Thanks
+
+* The [thanks](https://www.npmjs.com/package/thanks) package is a centralized directory that first attempted to solve the discovery problem, but only for the NPM ecosystem.
+* [Solomon Hykes] encouraged the separation of this idea from other projects, and was right.
