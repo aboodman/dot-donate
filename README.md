@@ -1,6 +1,6 @@
 # Motivation
 
-It is increasingly common for open source projects to accept donations via a variety of mechanisms, such as PayPal, Open Collective, Patreon, or cryptocurrencies.
+It is increasingly common for open source projects to accept donations via a variety of mechanisms, such as [PayPal](https://www.paypal.com/us/home), [Open Collective](https://opencollective.com/), [Patreon](https://www.patreon.com/), or cryptocurrencies.
 
 However, there is currently no easy way to discover which of the projects you rely on accepts donations. And there is no way to automate distributing donations among many projects.
 
