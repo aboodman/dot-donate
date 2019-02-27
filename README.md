@@ -2,7 +2,7 @@
 
 It is increasingly common for open source projects to accept donations via a variety of mechanisms, such as [PayPal](https://www.paypal.com/us/home), [Open Collective](https://opencollective.com/), [Patreon](https://www.patreon.com/), or cryptocurrencies.
 
-However, there is currently no easy way to discover which of the projects you rely on accepts donations. And there is no way to automate distributing donations among many projects.
+However, there is currently no easy way to discover which of the projects you rely on accepts donations. And there is no way to automate distribution of donations among many projects.
 
 This project specifies a simple file format that allows an open source project to specify how to send it money, so that the discovery and distribution can be automated.
 
