@@ -1,4 +1,4 @@
-# .donate
+# `.donate`
 
 There should be a standard way to declare how to donate money to an open source project.
 
