@@ -34,5 +34,5 @@ The `.donate` file MUST be formatted as [JSON](https://www.json.org/).
 
 # Thanks
 
-* The [thanks](https://www.npmjs.com/package/thanks) package is a centralized directory that first attempted to solve the discovery problem, but only for the NPM ecosystem.
-* [Solomon Hykes] encouraged the separation of this idea from other projects, and was right.
+* The [thanks](https://www.npmjs.com/package/thanks) package by Feross Aboukhadijeh is a centralized directory that first attempted to solve the discovery problem, but only for the NPM ecosystem.
+* Solomon Hykes encouraged the separation of this idea from other projects, and was right.
