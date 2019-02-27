@@ -24,6 +24,10 @@ A `.donate` file MUST be located in the root of the repository and all-lowercase
 
 The `.donate` file MUST be formatted as [JSON](https://www.json.org/).
 
+# Semantics
+
+All the fields are optional. If more than one payment type is specified, it means that users may pay the project via any of the listed payment types.
+
 # Currently Supported Payment Types
 
 | Type | Description |
