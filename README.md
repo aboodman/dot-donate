@@ -40,3 +40,4 @@ All the fields are optional. If more than one payment type is specified, it mean
 
 * The [thanks](https://www.npmjs.com/package/thanks) package by Feross Aboukhadijeh is a centralized directory that first attempted to solve the discovery problem, but only for the NPM ecosystem.
 * Solomon Hykes encouraged the separation of this idea from other projects, and was right.
+* [BackYourStack](https://github.com/opencollective/backyourstack) attempts to solve the discovery problem by scanning a repository for dependencies that accept donations via OpenCollective.
