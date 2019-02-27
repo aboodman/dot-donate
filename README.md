@@ -28,6 +28,6 @@ The `.donate` file MUST be formatted as [JSON](https://www.json.org/).
 
 | Type | Description |
 |-|-|
-| PayPal | A [PayPal](http://paypal.com) address |
+| PayPal | A [PayPal address](http://paypal.com) |
 | BTC | A [bitcoin address](https://en.bitcoin.it/wiki/Address) |
-| USDC | A [USDC](https://www.coinbase.com/usdc) address |
+| USDC | A [USDC address](https://www.coinbase.com/usdc) |
