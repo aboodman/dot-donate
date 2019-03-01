@@ -4,7 +4,7 @@ It is increasingly common for open source projects to accept donations via a var
 
 However, there is currently no easy way to discover which of the projects you rely on accepts donations. And there is no way to automate distribution of donations among many projects.
 
-This project specifies a simple file format that allows an open source project to specify how to send it money, so that the discovery and distribution can be automated.
+`.donate` is a simple file format that allows an open source project to specify how to send it money, so that the discovery and distribution can be automated.
 
 # Example
 
